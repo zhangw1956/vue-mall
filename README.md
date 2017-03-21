@@ -1,6 +1,6 @@
-# sell
+# vue-mall
 
-> A Vue.js project
+> A Vue Mall App
 
 ## Build Setup
 
